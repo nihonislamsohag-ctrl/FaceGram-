@@ -1,0 +1,6 @@
+{
+  "name": "FaceGram",
+  "description": "FaceGram social media app with video reels, feed posts, stories, explore search, profile management, and account authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
